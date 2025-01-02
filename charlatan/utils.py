@@ -4,7 +4,10 @@ import functools
 import itertools
 import operator
 import re
-import collections
+try:
+    from collections.abc import collections
+except ImportError:
+    import collections
 
 from charlatan import _compat
 
