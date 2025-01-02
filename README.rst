@@ -1,5 +1,19 @@
-Charlatan: Fixtures Made Easy [unmaintained]
+Fork of Charlatan: Fixtures Made Easy [unmaintained]
 ============================================
+
+About Fork
+----------
+
+This is a fork of uber/charlatan project.
+Its purpose is to keep using the Charlatan project for legacy tests with a newer
+python versions. As this is a legacy project I will be looking to replace the
+project rather than maintaining it.
+
+I will not seek to actively maintain this project beyond what is required
+for my particular use case.
+
+About Original
+--------------
 
 **Efficiently manage and install data fixtures**
 
