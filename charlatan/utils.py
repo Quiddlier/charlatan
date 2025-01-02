@@ -5,7 +5,7 @@ import itertools
 import operator
 import re
 try:
-    from collections.abc import collections
+    import collections.abc as collections
 except ImportError:
     import collections
 
